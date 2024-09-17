@@ -6,4 +6,4 @@
   3. pytest test.py
 
 Ожидаемый результат: После прохождения теста можно увидеть в терминале 100% прохождение теста. При наличии ошибки, будет выведена ошибка
-![Результат работы]([https://imgur.com/JbjuiO4](https://i.imgur.com/JbjuiO4.png))
+<img src="[https://i.imgur.com/f4Mt6hA.png](https://i.imgur.com/JbjuiO4.png)" width="300">
