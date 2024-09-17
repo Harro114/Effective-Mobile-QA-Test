@@ -1,3 +1,4 @@
+# Инструкция по запуску теста
 1. Скачать все файлы с репозитория и распоковать.
 2. Установить Python версии 3.12 и выше. (Windows: https://www.python.org/ftp/python/3.12.6/python-3.12.6-amd64.exe ; MacOs: https://www.python.org/downloads/release/python-3126/)
 3. Открыть терминал и перейти в папку с проектом. Далее команды, которые нужно прописывать
@@ -6,4 +7,4 @@
     3. pytest test.py
 
 Ожидаемый результат: После прохождения теста можно увидеть в терминале 100% прохождение теста. При наличии ошибки, будет выведена ошибка
-<img src="[https://i.imgur.com/f4Mt6hA.png](https://i.imgur.com/JbjuiO4.png)" width="300">
+<img src="https://i.imgur.com/JbjuiO4.png" width="300%">
